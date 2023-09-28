@@ -2,12 +2,41 @@
 <h1 align="center">Hi 👋, I'm Basil Arafat</h1>
 <h3 align="center">A Computer Science graduate with a passion for efficient algorithm design and robust software development.</h3>
 
+<!-- Background Information -->
+<h4 align="left">Background:</h4>
+<p align="left">
+I graduated with a degree in Computer Science and Mathematics from the University of Richmond. During my academic journey, I dove deep into algorithm design, developed multiple software applications, and collaborated on various team projects. I pride myself on creating efficient and user-friendly applications that provide value to end-users.
+</p>
+
+<!-- Aspirations -->
+<h4 align="left">Aspirations:</h4>
+<p align="left">
+My goal is to constantly evolve as a developer, embracing new challenges and technologies. I'm particularly interested in exploring the intersections of AI with web development to create intuitive and intelligent applications.
+</p>
+
 <!-- Current Activity and Contact -->
+<h4 align="left">Current Activities:</h4>
 <ul>
-  <li>🔭 Currently working on: <a href="https://github.com/baselarafat/FinWise">FinWise</a></li>
-  <li>🌱 Actively learning: <strong>Full Stack Development</strong></li>
-  <li>📫 Reach out to me at: <a href="mailto:basil.arafat@richmond.edu">basil.arafat@richmond.edu</a></li>
+  <li>🔭 Working on: <a href="https://github.com/baselarafat/FinWise">FinWise</a></li>
+  <li>🌱 Learning: <strong>Full Stack Development</strong></li>
 </ul>
+
+<h4 align="left">Contact:</h4>
+<p align="left">
+📫 Feel free to reach out: <a href="mailto:basil.arafat@richmond.edu">basil.arafat@richmond.edu</a>
+</p>
+
+<!-- Hobbies -->
+<h4 align="left">Hobbies:</h4>
+<p align="left">
+Outside of coding, I enjoy hiking, reading about astrophysics, and participating in hackathons. I believe in balancing work with activities that provide relaxation and expand knowledge.
+</p>
+
+<!-- Fun Fact -->
+<h4 align="left">Fun Fact:</h4>
+<p align="left">
+I once coded for 24 hours straight during a hackathon and my team ended up winning the innovation award!
+</p>
 
 <!-- Social Media Connections -->
 <h3 align="left">Connect with Me:</h3>
