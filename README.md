@@ -145,8 +145,3 @@ I once coded for 24 hours straight during a hackathon and my team ended up winni
   
 </p>
 
-<!-- GitHub Statistics -->
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=baselarafat&show_icons=true&locale=en&layout=compact&count_private=true" alt="baselarafat's language stats"/>
-</p>
-
